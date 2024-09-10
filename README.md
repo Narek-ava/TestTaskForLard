@@ -17,3 +17,6 @@ npm run dev
 http://127.0.0.1:8000/api/documentation#/Companies
 
 ![img_1.png](img_1.png)
+
+## UI React(Inertia)
+![img_2.png](img_2.png)
